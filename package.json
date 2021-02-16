@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "coap": "^0.23.1",
+    "coap": "^0.24.0",
     "mqtt": "^1.14.1",
     "socket.io": "^2.4.0",
     "socket.io-client": "^2.2.0",
